@@ -1,5 +1,25 @@
 ### Hi there 👋
 
+
+<div align="center">
+<table>
+<tr>
+<td>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhz0328&show_icons=true&theme=radical\&rank_icon=github)
+
+</td>
+<td>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhz0328&layout=compact)]()
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
 <!--
 **hhz0328/hhz0328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
