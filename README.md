@@ -1,6 +1,5 @@
 ### 欢迎来到我的主页 👋
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=hhz0328.hhz0328)
 ---
 
 - **机器人爱好者**
@@ -32,4 +31,4 @@
   <img width="48px" src="language/csharp.svg" />
   <img width="48px" src="language/python.svg" />
 
-
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=hhz0328.hhz0328)
