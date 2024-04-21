@@ -31,4 +31,4 @@
   <img width="48px" src="language/csharp.svg" />
   <img width="48px" src="language/python.svg" />
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=hhz0328.hhz0328)
+![Good Luck](https://visitor-badge.laobi.icu/badge?page_id=hhz0328.hhz0328)
