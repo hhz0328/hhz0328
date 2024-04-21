@@ -2,7 +2,7 @@
 
 ---
 
-- **机器人爱好者**
+- **机器人爱好者**🤖 
 - **研究方向** ：协作机器人的柔顺控制
 - **blibli频道** ：[bilibili-亿勺蛋白粉](https://space.bilibili.com/412687699?spm_id_from=333.1007.0.0)
 - **e-mail** ：15158376514@163.com
@@ -35,4 +35,4 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> ![Good Luck](https://visitor-badge.laobi.icu/badge?page_id=hhz0328.hhz0328)
 
- <img src="https://i.loli.net/2020/07/14/y2oaANRLjTYSpG1.gif" width="34px"> <a href="https://github.com/hhz0328"><img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dzacdeng&longCache=true"/></a>
+ <img src="https://i.loli.net/2020/07/14/y2oaANRLjTYSpG1.gif" width="34px"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
