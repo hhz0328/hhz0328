@@ -31,6 +31,6 @@
   <img width="48px" src="language/csharp.svg" />
   <img width="48px" src="language/python.svg" />
 
----
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> ![Good Luck](https://visitor-badge.laobi.icu/badge?page_id=hhz0328.hhz0328) <img src="https://i.loli.net/2020/07/14/y2oaANRLjTYSpG1.gif" width="34px"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
+- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> ![Good Luck](https://visitor-badge.laobi.icu/badge?page_id=hhz0328.hhz0328) <img src="https://i.loli.net/2020/07/14/y2oaANRLjTYSpG1.gif" width="34px"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
