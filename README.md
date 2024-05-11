@@ -25,9 +25,8 @@
 </div>
 
 - ***Prefer Using*** 😄
-
-  <img width="48px" src="language/c.svg" />
   <img width="48px" src="language/c-plus-plus.svg" />
+  <img width="48px" src="language/c.svg" />
   <img width="48px" src="language/csharp.svg" />
   <img width="48px" src="language/python.svg" />
 
