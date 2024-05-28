@@ -6,6 +6,7 @@
 - **奋斗目标** ：软(件)硬(件)双修<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - **blibli频道** ：[bilibili-亿勺蛋白粉](https://space.bilibili.com/412687699?spm_id_from=333.1007.0.0)
 - **e-mail** ：15158376514@163.com
+- **工作微信** ：ubuntu_ros1_ros2
 
 <div align="center">
 <table>
