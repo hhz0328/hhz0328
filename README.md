@@ -31,6 +31,7 @@
   <img width="48px" src="language/c.svg" />
   <img width="48px" src="language/csharp.svg" />
   <img width="48px" src="language/python.svg" />
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
 
 
