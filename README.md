@@ -41,4 +41,3 @@
 
 -  ![Good Luck](https://visitor-badge.laobi.icu/badge?page_id=hhz0328.hhz0328) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/hhz0328/hhz0328/output/github-contribution-grid-snake-dark.svg)
