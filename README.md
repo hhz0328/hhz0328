@@ -40,6 +40,12 @@
   </tr>
 </table>
 
+- ***Vibe Coding*** 🚀
+
+  <img width="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
+  <img width="48px" src="https://cursor.com/favicon.ico" />
+  <img width="48px" src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" />
+
 
 
 -  ![Good Luck](https://visitor-badge.laobi.icu/badge?page_id=hhz0328.hhz0328) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
