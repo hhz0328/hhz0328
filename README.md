@@ -32,21 +32,19 @@
   
 - ***Environments*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></td>
-  </tr>
-</table>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="48px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48px" />
 
 - ***Vibe Coding*** 🚀
 
-  <img width="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
-  <img width="48px" src="https://cursor.com/favicon.ico" />
-  <img width="48px" src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" />
-
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48px" />
+  <img src="https://cursor.com/favicon.ico" width="48px" />
+  <img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" width="48px" />
+  <img src="https://www.google.com/favicon.ico" width="48px" />
+  <img src="https://static.openai.com/platform.openai.com/favicon.ico" width="48px" />
+  <img src="https://claude.ai/favicon.ico" width="48px" />
+  
 
 -  ![Good Luck](https://visitor-badge.laobi.icu/badge?page_id=hhz0328.hhz0328) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
