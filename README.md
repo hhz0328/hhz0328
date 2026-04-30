@@ -38,12 +38,12 @@
 
 - ***Vibe Coding*** 🚀
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48px" />
-  <img src="https://cursor.com/favicon.ico" width="48px" />
-  <img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" width="48px" />
-  <img src="https://www.google.com/favicon.ico" width="48px" />
-  <img src="https://static.openai.com/platform.openai.com/favicon.ico" width="48px" />
-  <img src="https://claude.ai/favicon.ico" width="48px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="48px" />
+  <img src="https://cursor.com/favicon.ico" alt="Cursor" width="48px" />
+  <img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" alt="GitHub Copilot" width="48px" />
+  <img src="https://www.google.com/favicon.ico" alt="Google Antigravity" width="48px" />
+  <img src="https://cdn.simpleicons.org/openai/000000" alt="Codex" width="48px" />
+  <img src="https://claude.ai/favicon.ico" alt="Claude Code" width="48px" />
   
 
 -  ![Good Luck](https://visitor-badge.laobi.icu/badge?page_id=hhz0328.hhz0328) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
