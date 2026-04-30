@@ -41,8 +41,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="48px" />
   <img src="https://cursor.com/favicon.ico" alt="Cursor" width="48px" />
   <img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" alt="GitHub Copilot" width="48px" />
-  <img src="https://www.google.com/favicon.ico" alt="Google Antigravity" width="48px" />
-  <img src="https://cdn.simpleicons.org/openai/000000" alt="Codex" width="48px" />
   <img src="https://claude.ai/favicon.ico" alt="Claude Code" width="48px" />
   
 
